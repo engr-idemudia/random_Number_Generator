@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'dart:math';
 
 void main() => runApp(MaterialApp(
-  home: Random_Numbers(),
+  home: Random_Numbers() ,
 ));
 
 class Random_Numbers extends StatefulWidget {
